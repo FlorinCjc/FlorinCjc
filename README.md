@@ -9,7 +9,7 @@ I am a junior software engineer, passionate about the backend, especially with :
 * 🌍  I'm based in Constanta / Romania
 * ✉️  You can contact me at [florinncjc@gmail.com](mailto:florinncjc@gmail.com)
 * 🧠  I'm learning Angular
-
+* ✍🏻  I uploaded my projects if you want  take a look 👇🏻👇🏻👇🏻 
 ### Skills
 
 <p align="left">
