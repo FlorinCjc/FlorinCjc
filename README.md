@@ -6,7 +6,7 @@ Junior Software Engineer
 
 I am a junior software engineer, passionate about the backend, especially with : - Java, - Hibernate, - Sql, I am a hardworking person who dedicates himself
 
-* 🌍  I'm based in Constanta
+* 🌍  I'm based in Constanta / Romania
 * ✉️  You can contact me at [florinncjc@gmail.com](mailto:florinncjc@gmail.com)
 * 🧠  I'm learning Angular
 
