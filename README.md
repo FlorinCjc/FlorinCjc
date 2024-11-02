@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Software Engineer
 ------------------------
 
-I am a junior software engineer, passionate about the backend, especially with : - Java, - Hibernate, - Sql, I am a hardworking person who dedicates himself
+I am a junior software engineer, passionate about the backend, especially with : - Java, - Hibernate, - Sql, - Spring, I am a hardworking person who dedicates himself
 
 * 🌍  I'm based in Constanta / Romania
 * ✉️  You can contact me at [florinncjc@gmail.com](mailto:florinncjc@gmail.com)
